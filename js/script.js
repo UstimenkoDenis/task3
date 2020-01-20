@@ -30,7 +30,7 @@ function chooseExpenses() {
         }  else {
             i--;
         }
-    };
+    }
 }
 chooseExpenses();
 
@@ -77,6 +77,6 @@ function chooseOptExpenses() {
         }  else {
             i--;
         }
-    };
+    }
 }
 chooseOptExpenses();
